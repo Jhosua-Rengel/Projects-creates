@@ -1,4 +1,4 @@
-"""Creating and authentification of password"""
+"""Creating and authentication of password"""
 
 """Creating of user acount"""
 
@@ -41,3 +41,4 @@ if not open_pss == password:
             print("Welcome to AR...")
 else:
     print("Welcome to AR")
+
